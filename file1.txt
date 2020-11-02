@@ -7,4 +7,4 @@ third line
 ......
 Local repo to Remote repo.
 
-new change to test the rebase with conflict
+new change to test the rebase with conflict 
